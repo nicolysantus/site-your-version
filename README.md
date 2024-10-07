@@ -19,7 +19,3 @@ Site responsivo, tanto para DESKTOP quanto para MOBILE.
 
 #### DESKTOP
 https://user-images.githubusercontent.com/81979197/195969578-383714a3-859e-4adf-93dc-3cc0d3409a68.mp4
-
-
-#### MOBILE
-https://user-images.githubusercontent.com/81979197/195969567-c5a020c2-d708-435d-8086-bda4d3eeda0e.mp4
